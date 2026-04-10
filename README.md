@@ -15,4 +15,4 @@ Since the project was from scratch commits of placeholder files, such as .gitkee
 
 The commits were inline with what I would normally do with my current team but broken up slightly differently. A single commit typically being all the changes needed to a single file rather than broken up into multiple commits and pull requests. This was done more for practice than anything else.
 
-In production I would most likely combine some of the commits to be larger due to the changes being low complexity.
+In production I would most likely combine some of the commits to be larger due to the changes being low complexity. In addition I would add branch protection to require PR reviews, store secrets outside of the repository when needed, and look into GitHub actions for automation. 
